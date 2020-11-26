@@ -1,11 +1,19 @@
 [
   {
+    "name": "itglobal.ru",
+    "url": "https://itglobal.ru",
+    "slug": "itglobal-ru",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 900
+  },
+  {
     "name": "red-circule.com",
     "url": "https://red-circule.com",
     "slug": "red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2116
+    "time": 1838
   },
   {
     "name": "test.red-circule.com",
