@@ -4,7 +4,7 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: ITGlobal
+  - name: itglobal.ru
     url: https://itglobal.ru
   - name: red-circule.com
     url: https://red-circule.com
