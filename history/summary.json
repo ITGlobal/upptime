@@ -5,15 +5,15 @@
     "slug": "it-global",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1416
+    "time": 1405
   },
   {
-    "name": "Красный Циркуль",
+    "name": "red-circule.com",
     "url": "https://red-circule.com",
-    "slug": "krasnyj-czirkul",
+    "slug": "red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2075
+    "time": 2116
   },
   {
     "name": "test.red-circule.com",
@@ -21,7 +21,7 @@
     "slug": "test-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4797
+    "time": 3805
   },
   {
     "name": "staging.red-circule.com",
@@ -29,6 +29,6 @@
     "slug": "staging-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3983
+    "time": 3327
   }
 ]
