@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "ITGlobal",
+    "url": "https://itglobal.ru",
+    "slug": "it-global",
     "status": "up",
     "uptime": "100.00%",
-    "time": 123
+    "time": 1583
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Красный Циркуль",
+    "url": "https://red-circule.com",
+    "slug": "krasnyj-czirkul",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 347
+    "uptime": "100.00%",
+    "time": 2122
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "test.red-circule.com",
+    "url": "https://test.red-circule.com",
+    "slug": "test-red-circule-com",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 48
+    "uptime": "100.00%",
+    "time": 6454
+  },
+  {
+    "name": "staging.red-circule.com",
+    "url": "https://staging.red-circule.com",
+    "slug": "staging-red-circule-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 5983
   }
 ]
