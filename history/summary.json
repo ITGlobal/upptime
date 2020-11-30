@@ -4,16 +4,16 @@
     "url": "https://itglobal.ru",
     "slug": "itglobal-ru",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 839
+    "uptime": "99.88%",
+    "time": 894
   },
   {
     "name": "red-circule.com",
     "url": "https://red-circule.com",
     "slug": "red-circule-com",
     "status": "up",
-    "uptime": "99.80%",
-    "time": 1500
+    "uptime": "99.86%",
+    "time": 1577
   },
   {
     "name": "test.red-circule.com",
@@ -21,7 +21,7 @@
     "slug": "test-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2668
+    "time": 2576
   },
   {
     "name": "staging.red-circule.com",
@@ -29,6 +29,6 @@
     "slug": "staging-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2309
+    "time": 2239
   }
 ]
