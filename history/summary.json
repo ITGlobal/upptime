@@ -4,16 +4,32 @@
     "url": "https://itglobal.ru",
     "slug": "itglobal-ru",
     "status": "up",
-    "uptime": "99.93%",
-    "time": 914
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 993,
+    "timeDay": 780,
+    "timeWeek": 1036,
+    "timeMonth": 993,
+    "timeYear": 993
   },
   {
     "name": "red-circule.com",
     "url": "https://red-circule.com",
     "slug": "red-circule-com",
     "status": "up",
-    "uptime": "99.92%",
-    "time": 1561
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1700,
+    "timeDay": 1526,
+    "timeWeek": 1727,
+    "timeMonth": 1700,
+    "timeYear": 1700
   },
   {
     "name": "test.red-circule.com",
@@ -21,7 +37,15 @@
     "slug": "test-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2266
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2192,
+    "timeDay": 1368,
+    "timeWeek": 1603,
+    "timeMonth": 2192,
+    "timeYear": 2192
   },
   {
     "name": "staging.red-circule.com",
@@ -29,6 +53,14 @@
     "slug": "staging-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2055
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1987,
+    "timeDay": 1239,
+    "timeWeek": 1578,
+    "timeMonth": 1987,
+    "timeYear": 1987
   }
 ]
