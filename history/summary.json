@@ -2,6 +2,7 @@
   {
     "name": "itglobal.ru",
     "url": "https://itglobal.ru",
+    "icon": "https://favicons.githubusercontent.com/itglobal.ru",
     "slug": "itglobal-ru",
     "status": "up",
     "uptime": "99.96%",
@@ -9,31 +10,39 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 990,
-    "timeDay": 743,
-    "timeWeek": 944,
-    "timeMonth": 990,
-    "timeYear": 990
+    "time": 1006,
+    "timeDay": 1209,
+    "timeWeek": 1012,
+    "timeMonth": 1006,
+    "timeYear": 1006,
+    "dailyMinutesDown": {
+      "2020-11-27": 6
+    }
   },
   {
     "name": "red-circule.com",
     "url": "https://red-circule.com",
+    "icon": "https://favicons.githubusercontent.com/red-circule.com",
     "slug": "red-circule-com",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 1682,
-    "timeDay": 1328,
-    "timeWeek": 1562,
-    "timeMonth": 1682,
-    "timeYear": 1682
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1697,
+    "timeDay": 1908,
+    "timeWeek": 1643,
+    "timeMonth": 1697,
+    "timeYear": 1697,
+    "dailyMinutesDown": {
+      "2020-11-26": 7
+    }
   },
   {
     "name": "test.red-circule.com",
     "url": "https://test.red-circule.com",
+    "icon": "https://favicons.githubusercontent.com/test.red-circule.com",
     "slug": "test-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +50,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2077,
-    "timeDay": 1340,
-    "timeWeek": 1507,
-    "timeMonth": 2077,
-    "timeYear": 2077
+    "time": 2061,
+    "timeDay": 1824,
+    "timeWeek": 1583,
+    "timeMonth": 2061,
+    "timeYear": 2061,
+    "dailyMinutesDown": {}
   },
   {
     "name": "staging.red-circule.com",
     "url": "https://staging.red-circule.com",
+    "icon": "https://favicons.githubusercontent.com/staging.red-circule.com",
     "slug": "staging-red-circule-com",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1919,
-    "timeDay": 1418,
-    "timeWeek": 1553,
-    "timeMonth": 1919,
-    "timeYear": 1919
+    "time": 1914,
+    "timeDay": 1851,
+    "timeWeek": 1642,
+    "timeMonth": 1914,
+    "timeYear": 1914,
+    "dailyMinutesDown": {}
   }
 ]
