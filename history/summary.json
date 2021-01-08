@@ -6,15 +6,15 @@
     "slug": "itglobal-ru",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 900,
-    "timeDay": 672,
-    "timeWeek": 706,
-    "timeMonth": 862,
-    "timeYear": 900,
+    "time": 896,
+    "timeDay": 731,
+    "timeWeek": 712,
+    "timeMonth": 846,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2021-01-06": 13,
       "2020-11-27": 6
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1576,
-    "timeDay": 1433,
-    "timeWeek": 1402,
-    "timeMonth": 1528,
-    "timeYear": 1576,
+    "time": 1570,
+    "timeDay": 1314,
+    "timeWeek": 1376,
+    "timeMonth": 1509,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2020-11-26": 7
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1662,
-    "timeDay": 1318,
+    "time": 1655,
+    "timeDay": 1324,
     "timeWeek": 1322,
-    "timeMonth": 1462,
-    "timeYear": 1662,
+    "timeMonth": 1445,
+    "timeYear": 1655,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1622,
-    "timeDay": 1332,
-    "timeWeek": 1344,
-    "timeMonth": 1478,
-    "timeYear": 1622,
+    "time": 1617,
+    "timeDay": 1404,
+    "timeWeek": 1358,
+    "timeMonth": 1463,
+    "timeYear": 1617,
     "dailyMinutesDown": {}
   }
 ]
