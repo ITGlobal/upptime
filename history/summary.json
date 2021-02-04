@@ -45,18 +45,20 @@
     "url": "https://test.red-circule.com",
     "icon": "https://favicons.githubusercontent.com/test.red-circule.com",
     "slug": "test-red-circule-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1577,
-    "timeDay": 1356,
-    "timeWeek": 1371,
-    "timeMonth": 1429,
-    "timeYear": 1577,
-    "dailyMinutesDown": {}
+    "time": 1568,
+    "timeDay": 1118,
+    "timeWeek": 1309,
+    "timeMonth": 1412,
+    "timeYear": 1568,
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   },
   {
     "name": "staging.red-circule.com",
