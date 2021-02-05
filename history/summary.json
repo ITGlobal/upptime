@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 866,
-    "timeDay": 895,
-    "timeWeek": 852,
-    "timeMonth": 801,
-    "timeYear": 866,
+    "time": 870,
+    "timeDay": 1191,
+    "timeWeek": 920,
+    "timeMonth": 818,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2021-01-06": 13,
       "2020-11-27": 6
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1538,
-    "timeDay": 1661,
-    "timeWeek": 1530,
-    "timeMonth": 1465,
-    "timeYear": 1538,
+    "time": 1544,
+    "timeDay": 2044,
+    "timeWeek": 1602,
+    "timeMonth": 1488,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2020-11-26": 7
     }
@@ -45,17 +45,17 @@
     "url": "https://test.red-circule.com",
     "icon": "https://favicons.githubusercontent.com/test.red-circule.com",
     "slug": "test-red-circule-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "99.10%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1568,
-    "timeDay": 1118,
-    "timeWeek": 1309,
-    "timeMonth": 1412,
-    "timeYear": 1568,
+    "time": 1577,
+    "timeDay": 1567,
+    "timeWeek": 1442,
+    "timeMonth": 1447,
+    "timeYear": 1577,
     "dailyMinutesDown": {
       "2021-02-04": 13
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1568,
-    "timeDay": 1587,
-    "timeWeek": 1423,
-    "timeMonth": 1471,
-    "timeYear": 1568,
+    "time": 1575,
+    "timeDay": 2071,
+    "timeWeek": 1536,
+    "timeMonth": 1495,
+    "timeYear": 1575,
     "dailyMinutesDown": {}
   }
 ]
