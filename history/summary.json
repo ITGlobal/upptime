@@ -52,9 +52,9 @@
     "url": "https://test.red-circule.com",
     "icon": "https://favicons.githubusercontent.com/test.red-circule.com",
     "slug": "test-red-circule-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.53%",
@@ -64,6 +64,7 @@
     "timeMonth": 1662,
     "timeYear": 1566,
     "dailyMinutesDown": {
+      "2021-08-11": 0,
       "2021-07-26": 734,
       "2021-07-25": 1000,
       "2021-02-04": 13
