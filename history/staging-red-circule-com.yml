@@ -1,7 +1,7 @@
 url: https://staging.red-circule.com
-status: down
-code: 500
-responseTime: 15696
-lastUpdated: 2021-08-11T16:33:59.201Z
+status: up
+code: 200
+responseTime: 1603
+lastUpdated: 2021-08-11T17:03:57.500Z
 startTime: Thu Nov 26 2020 11:07:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
