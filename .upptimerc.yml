@@ -8,10 +8,10 @@ sites:
     url: https://itglobal.ru
   - name: red-circule.com
     url: https://red-circule.com
-  - name: test.red-circule.com
-    url: https://test.red-circule.com
-  - name: staging.red-circule.com
-    url: https://staging.red-circule.com
+  - name: documentomat.ru
+    url: https://documentomat.ru
+  - name: bicref.ru
+    url: https://bicref.ru
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
