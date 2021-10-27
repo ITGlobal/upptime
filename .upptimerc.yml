@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: itglobal.ru
     url: https://itglobal.ru
+  - name: codestetic.com
+    url: https://codestetic.com
   - name: red-circule.com
     url: https://red-circule.com
   - name: documentomat.ru
