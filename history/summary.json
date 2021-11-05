@@ -4,10 +4,10 @@
     "url": "https://itglobal.ru",
     "icon": "https://favicons.githubusercontent.com/itglobal.ru",
     "slug": "itglobal-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.66%",
     "time": 961,
@@ -16,6 +16,7 @@
     "timeMonth": 1008,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2021-11-05": 1,
       "2021-10-08": 60,
       "2021-09-03": 93,
       "2021-08-31": 10,
@@ -32,9 +33,9 @@
     "url": "https://codestetic.com",
     "icon": "https://favicons.githubusercontent.com/codestetic.com",
     "slug": "codestetic-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -43,7 +44,9 @@
     "timeWeek": 943,
     "timeMonth": 935,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   },
   {
     "name": "red-circule.com",
@@ -64,7 +67,7 @@
     "dailyMinutesDown": {
       "2021-10-28": 20,
       "2021-09-23": 69,
-      "2021-08-31": 86,
+      "2021-08-31": 76,
       "2021-08-15": 29,
       "2021-08-14": 120,
       "2021-08-13": 296,
