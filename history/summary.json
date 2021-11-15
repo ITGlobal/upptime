@@ -80,9 +80,9 @@
     "url": "https://documentomat.ru",
     "icon": "https://favicons.githubusercontent.com/documentomat.ru",
     "slug": "documentomat-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,16 +91,18 @@
     "timeWeek": 861,
     "timeMonth": 931,
     "timeYear": 931,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "bicref.ru",
     "url": "https://bicref.ru",
     "icon": "https://favicons.githubusercontent.com/bicref.ru",
     "slug": "bicref-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +111,8 @@
     "timeWeek": 858,
     "timeMonth": 903,
     "timeYear": 903,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   }
 ]
