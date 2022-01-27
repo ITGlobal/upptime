@@ -4,10 +4,10 @@
     "url": "https://itglobal.ru",
     "icon": "https://favicons.githubusercontent.com/itglobal.ru",
     "slug": "itglobal-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "90.27%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "90.22%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.65%",
     "time": 974,
@@ -16,7 +16,7 @@
     "timeMonth": 1022,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2022-01-27": 141,
+      "2022-01-27": 142,
       "2021-10-08": 60,
       "2021-09-03": 93,
       "2021-08-31": 10,
@@ -32,18 +32,18 @@
     "icon": "https://favicons.githubusercontent.com/codestetic.com",
     "slug": "codestetic-com",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "88.99%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "88.34%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.87%",
     "time": 1097,
     "timeDay": 5234,
     "timeWeek": 2647,
     "timeMonth": 1426,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2022-01-27": 158
+      "2022-01-27": 167
     }
   },
   {
